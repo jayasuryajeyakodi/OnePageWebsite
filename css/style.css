@@ -1,0 +1,49 @@
+h1{
+    color: green !important;
+}
+.navBg{
+    background-color: black;
+    color: yellow !important;
+}
+
+.bgFixed{
+    background-attachment: fixed;
+    min-height: 30vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("https://images.unsplash.com/photo-1545176614-b8d28fd479e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80")
+}
+
+.bg-2{
+    min-height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1545173455-d8d3710c5525?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80")
+
+}
+.bg-1{
+    min-height: 100vh;
+}
+.bg-3{
+    min-height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1545666214-1acd9f589e25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80")
+}
+.bg-4{
+    min-height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1545215697-55d8435b89dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1046&q=80")
+}
+
+.bgFixed-2{
+    background-attachment: fixed;
+    min-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.bgFixed-3{
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("https://images.unsplash.com/photo-1545666214-1acd9f589e25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80")
+}
